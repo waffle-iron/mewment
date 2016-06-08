@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/chrisbodhi/mewment.png?label=ready&title=Ready)](https://waffle.io/chrisbodhi/mewment)
 #Mewment
 
 ![mew](http://www.glossophilia.org/wp-content/uploads/catmew.jpg)
